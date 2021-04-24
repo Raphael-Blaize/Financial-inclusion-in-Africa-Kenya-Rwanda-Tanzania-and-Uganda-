@@ -48,6 +48,7 @@ from pandas_profiling import ProfileReport
         * Finscope Uganda 2018. http://fsduganda.or.ug/finscope-2018-survey-report/
   * Data Analysis used
       * Univariate Analysis 
+          * [EDA.HTML](https://github.com/Raphael-Blaize/Financial-inclusion-in-Africa-Kenya-Rwanda-Tanzania-and-Uganda-/blob/main/output%20(1).html)
           * Frequency Distibutions
           * Bar graphs
           * Descriptive Statistics
